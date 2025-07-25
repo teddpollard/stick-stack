@@ -1,0 +1,44 @@
+{
+  "active_track": "REGEN STACK",
+  "last_updated": "2025-07-25",
+  "current_tools": {
+    "Progress Tracker": "Live",
+    "Job Tracker": "Designed – not built",
+    "Signal Map": "Designed – includes UofL & Ulmer Center",
+    "Credential Mapper": "Planned – waiting for launch command"
+  },
+  "certifications": [
+    {
+      "name": "Google Project Management",
+      "platform": "Coursera",
+      "status": "Enrolled",
+      "progress": "Week 3 – paused"
+    }
+  ],
+  "recent_configs": [
+    "guardian_operator_config.json – finalized",
+    "tedd_config_august2025.json – updated"
+  ],
+  "code_repos": [
+    {
+      "name": "Stick Stack",
+      "purpose": "REGEN STACK + career rebuild",
+      "status": "Active"
+    },
+    {
+      "name": "GhostOS",
+      "purpose": "Symbiotic AI Operating System / CLI / IDE",
+      "status": "Parked for Phase II"
+    },
+    {
+      "name": "SymSing",
+      "purpose": "Kernel / OS layer for self-evolving AIDEN",
+      "status": "Scaffolded only"
+    }
+  ],
+  "outstanding_loops": [
+    "Decide on Credential Mapper",
+    "Revisit Resume v2 (was paused post Guardian config)",
+    "Build REGEN STACK UI or keep internal for now?"
+  ]
+}
